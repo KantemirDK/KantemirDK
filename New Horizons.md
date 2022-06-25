@@ -1,5 +1,6 @@
 
 [![GeekBrains](https://images.milledcdn.com/2021-11-26/E0tvlhuzBrDMoubz/pv5EGNOGDz41.png "GeekBrains")](https://gb.ru/)
+(Кликните по логотипу, чтобы перейти на сайт gb.ru. Также при наведении курсором мыши появится описание картинки)
 
 # **Факультет Искусственного интеллекта** #
 
@@ -7,32 +8,33 @@
 **За два года спрос на Data Scientist-ов вырос в два раза, по данным HeadHunter. Применяя методы машинного обучения, они строят прогнозы и повышают эффективность бизнес-процессов в любой отрасли. Мы поможем стать таким специалистом с нуля и найдем вам работу.**
 
 ## **Программа создана при участии:** ##
-  ![Megafon](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef67ea858b0a_Megafon%20logo.png "Мегафон")
-  ![Nvidia](https://obsproject.com/media/pages/contribute/nvidia/33cfcf4793-1642028463/nvidia-logo-horiz-rgb-wht-for-screen-small.png "Nvidia")
+(Кликните по логотипам компаний, чтобы перейти на официальные сайты. Также при наведении курсором мыши появится описание картинки)
+  [![Megafon](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef67ea858b0a_Megafon%20logo.png "Мегафон")](https://moscow.megafon.ru/)
+  [![Nvidia](https://obsproject.com/media/pages/contribute/nvidia/33cfcf4793-1642028463/nvidia-logo-horiz-rgb-wht-for-screen-small.png "Nvidia")](https://www.nvidia.com/ru-ru/)
 
 
-## Станьте специалистом Data Scientist с нуля: ## 
+## Станьте специалистом Data Science с нуля: ## 
 -  **Живое общение** (В курсе 70% вебинаров с преподавателями: вы сможете задать вопросы по теме и быстро получить обратную связь)
   
-   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef7e3b858e86_Soft%20Skills.png)
+   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef7e3b858e86_Soft%20Skills.png "Живое общение")
 
 - **Актуальная программа** (Каждый месяц мы обновляем материал, чтобы вы получали актуальные знания)
   
-   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef453a858e88_Bystryj%20start.png)
+   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef453a858e88_Bystryj%20start.png "Актуальная программа")
 
 - **Куратор** (Поможет вам освоиться в личном кабинете, в процессе обучения всегда будет на связи и поможет найти ответы на вопросы)
-   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef75f4858e77_Opytnye%20prepodavateli.png)
+   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef75f4858e77_Opytnye%20prepodavateli.png "Куратор")
  
 - **Постоянная практика** (Вы сможете тренироваться на наших учебных стендах — специальной инфраструктуре, и добавите 14 кейсов в портфолио)
   
-   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef225a858e82_Obuchenie%20v%20udobnoe%20vremya.png)
+   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef225a858e82_Obuchenie%20v%20udobnoe%20vremya.png "Постоянная практика")
 
 - **Доступ к сообществу GeekBrains** (Вы найдёте полезные контакты и единомышленников в вашем городе, сможете делиться опытом в базе знаний GeekBrains. Будете посещать закрытые митапы, хакатоны и другие онлайн- и офлайн-мероприятия как слушатели и спикеры)
-   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcefa662858fb6_icon_GB_2%20(2).svg)
+   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcefa662858fb6_icon_GB_2%20(2).svg "Доступ к сообществу GeekBrains")
 
 - **Методические материалы** (После каждого занятия вы получите методички в формате Jupiter Notebook —  это мощный инструмент для интерактивных вычислений)
   
-   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef40ed858e8c_Proektnaya%20rabota.png)
+   ![Свойства программы](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef40ed858e8c_Proektnaya%20rabota.png "Методические материалы")
 
 ## **РАЗНЫЕ ФОРМАТЫ ОБУЧЕНИЯ** ##
 
@@ -53,16 +55,17 @@
 
 
 # **Вас будут обучать топовые эксперты** #
+Кликните по фото эксперта, чтобы перейти на страницу с описанием эксперта. Также при наведении курсором мыши появится описание фото.
 
-- **Сергей Ширкин** (кликните по фото, чтобы подробнее ознакомиться с экспертом)
+- **Сергей Ширкин** 
 
  [![Сергей Ширкин](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef5805858b02_Sergey%20Shirkin.png "Сергей Ширкин")](https://gb.ru/posts/zachem-izuchat-mashinnoe-obuchenie-i-kem-potom-rabotat)
 
-- **Дмитрий Коробченко** (кликните по фото, чтобы подробнее ознакомиться с экспертом)
+- **Дмитрий Коробченко** 
 
  [![Дмитрий Коробченко](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcefe208858ac7_Dmitry%20Korobchenko.png "Дмитрий Коробченко")](https://mooc.ru/teachers/dmitriy-korobchenko)
 
-- **Алексей Петренко** (кликните по фото, чтобы подробнее ознакомиться с экспертом)
+- **Алексей Петренко**
 
  [![Алексей Петренко](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bafbcefbbcef0af1858ac1_Alexey%20Petrenko.png "Алексей Петренко")](https://gb.ru/posts/python_ideal_code)
 
@@ -129,6 +132,8 @@
 Обучение проводится на основании государственной лицензии № **040485**. Вы получите диплом о профессиональной переподготовке и электронный сертификат, которые можно добавить в портфолио и показать работодателю.
 
 ![Диплом](https://assets-global.website-files.com/61bafbcefbbcefbabc858991/61bb5f55a977ed238ed28807_%25D0%2594%25D0%25B8%25D0%25BF%25D0%25BB%25D0%25BE%25D0%25BC_VR%25402x-p-800.jpeg "Диплом по государственной лицензии № 040485")
+
+## Лицензия № 040485 (кликните по картинке лицензии, чтобы перейти к документу и подробно ознакомиться с ним) ##
 [![Лицензия](https://assets-global.website-files.com/61e7e0262a578339c0493a38/61eaf590fc293a7831d6f46f_image%20116.png "Лицензия № 040485")](https://gb.ru/license.pdf)
 
 ## **Выпускники работают и стажируются в компаниях** ##
