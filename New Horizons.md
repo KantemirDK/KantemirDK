@@ -136,4 +136,9 @@
 ## Лицензия № 040485 (кликните по картинке лицензии, чтобы перейти к документу и подробно ознакомиться с ним) ##
 [![Лицензия](https://assets-global.website-files.com/61e7e0262a578339c0493a38/61eaf590fc293a7831d6f46f_image%20116.png "Лицензия № 040485")](https://gb.ru/license.pdf)
 
-## **Выпускники работают и стажируются в компаниях** ##
+## **Записывайтесь на факультет Искусственный интеллект и будьте всегда в тренде!!!** ##
+
+**Кликните по логотипу GeekBrains, чтобы подробнее ознакомиться с программиой и записаться на обучение**
+
+[![GeekBrains - Data Science](https://images.milledcdn.com/2021-11-26/E0tvlhuzBrDMoubz/pv5EGNOGDz41.png "GeekBrains - Data Science")](https://gb.ru/geek_university/data-science#form-paket) 
+# **В ногу со временем!** #
