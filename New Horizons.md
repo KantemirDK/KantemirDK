@@ -171,4 +171,9 @@ https://youtu.be/F9LkOd_6ZlI?t=2990
 
 https://youtu.be/F9LkOd_6ZlI?t=2483
 
+# Дополнительтные инструкции:
+
+## **Как увидеть все ветки** 
+https://youtu.be/F9LkOd_6ZlI?t=1311
+
 
