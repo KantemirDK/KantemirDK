@@ -151,3 +151,5 @@
 
 
 [![Ильяс Аниканов](https://gbcdn.mrgcdn.ru/uploads/avatar/3436700/attachment/thumb-4c6695c89a19c1b4c899e0e3ec64aff3.jpg "Ильяс Аниканов")](https://gb.ru/users/teachers/6940909)
+
+Кликните по фото, чтобы увидеть информацию о преподавателе
