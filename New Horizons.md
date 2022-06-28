@@ -171,4 +171,5 @@ https://youtu.be/F9LkOd_6ZlI?t=2990
 
 https://youtu.be/F9LkOd_6ZlI?t=2483
 
-
+Путь в ИТ с Павлом Волей (кликните по картинке, чтобы попасть на сайт меропрития и запистаься)
+[![Путь в ИТ](https://assets-global.website-files.com/61e67d09c1d1d62b7594a76a/626d12c912ae834d892e297b__%D1%82%D1%83%D1%86-p-1600.png "Путь в ИТ")](https://gb.ru/path-to-it/it_star?from=banner_burger_menyu_put_v_it_volya_20220623&tip-kursa-x9ng=korotkiy-kurs&stoimost-x1bp=besplatnoe)
