@@ -170,3 +170,6 @@ https://youtu.be/F9LkOd_6ZlI?t=2990
 ## Визуализация команды git log (перейдите по ссылке ниже)
 
 https://youtu.be/F9LkOd_6ZlI?t=2483
+
+## Теория веток
+https://youtu.be/F9LkOd_6ZlI?t=2605
