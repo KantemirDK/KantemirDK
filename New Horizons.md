@@ -177,3 +177,5 @@ https://youtu.be/F9LkOd_6ZlI?t=2483
 https://youtu.be/F9LkOd_6ZlI?t=1311
 
 
+Гифка Земли
+ [![Земля](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif "Земля")](https://ru.wikipedia.org/wiki/GIF)
