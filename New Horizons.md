@@ -145,7 +145,11 @@
 [![GeekBrains - Data Science](https://images.milledcdn.com/2021-11-26/E0tvlhuzBrDMoubz/pv5EGNOGDz41.png "GeekBrains - Data Science")](https://gb.ru/geek_university/data-science#form-paket) 
 # **В ногу со временем!** #
 
+<<<<<<< HEAD
+## Наши преподаватели семинаров контроля версий git 
+=======
 ## **Наши преподаватели лекций и семинаров контроля версий** 
+>>>>>>> correction
 
 ## **Ильяс Аниканов** 
 
@@ -154,7 +158,22 @@
 
 Кликните по фото, чтобы увидеть информацию о преподавателе
 
+
 ## **Ильнар Шифигуллин**
  [![Ильнар Шифигуллин](https://gbcdn.mrgcdn.ru/uploads/avatar/3044837/attachment/thumb-1a656273acf98b2313d8ca65b0177235.jpeg "Ильнар Шифигуллин")](https://gb.ru/users/teachers/3546003)
 
  Кликните по фото, чтобы увидеть информацию о преподавателе
+
+## Вставка изображений в Markdown (перейдите по сслыке ниже)
+https://youtu.be/F9LkOd_6ZlI?t=2990
+
+## Визуализация команды git log (перейдите по ссылке ниже)
+
+https://youtu.be/F9LkOd_6ZlI?t=2483
+
+# Дополнительтные инструкции:
+
+## **Как увидеть все ветки** 
+https://youtu.be/F9LkOd_6ZlI?t=1311
+
+
