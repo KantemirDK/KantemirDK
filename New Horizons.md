@@ -144,3 +144,10 @@
 
 [![GeekBrains - Data Science](https://images.milledcdn.com/2021-11-26/E0tvlhuzBrDMoubz/pv5EGNOGDz41.png "GeekBrains - Data Science")](https://gb.ru/geek_university/data-science#form-paket) 
 # **В ногу со временем!** #
+
+## Наши преподаватели семинаров контроля версий git 
+
+## **Ильяс Аниканов** 
+
+
+[![Ильяс Аниканов](https://gbcdn.mrgcdn.ru/uploads/avatar/3436700/attachment/thumb-4c6695c89a19c1b4c899e0e3ec64aff3.jpg "Ильяс Аниканов")](https://gb.ru/users/teachers/6940909)
